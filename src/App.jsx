@@ -8,7 +8,7 @@ function App() {
   useEffect(() => {
     console.log('count:', count)
   })
-
+  <>
   return (
     <>
       <div>
